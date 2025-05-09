@@ -1,17 +1,15 @@
-var idade;
+// Da certo
+var idade = 13;
 
 if (idade) {
-    var idade;
     console.log(idade)
 }
 
-console.log(idade)
-
+// Nao da certo
 let idade;
 
 if (idade) {
-    let idade;
     console.log(idade)
 }
 
-console.log(idade)
+
