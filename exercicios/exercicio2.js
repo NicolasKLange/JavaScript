@@ -1,6 +1,8 @@
 primeiroNome = "Nicolas";
 ultimoNome = "Lange";
-nomeCompleto = primeiroNome + ultimoNome;
-nomeTemplate = (`${primeiroNome} ${ultimoNome}`);
+
+nomeCompleto = primeiroNome + ' ' + ultimoNome;
 console.log(nomeCompleto);
+
+nomeTemplate = (`${primeiroNome} ${ultimoNome}`);
 console.log(nomeTemplate);
