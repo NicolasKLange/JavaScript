@@ -11,3 +11,11 @@ console.log(numeros);
 
 const numerosJuntos = metade.concat(outraMetade);
 console.log(numerosJuntos);
+
+const alunos = ['Nicolas', 'joao'];
+const medias = [8, 10];
+
+const lista = [alunos, medias];
+
+console.log(lista);
+console.log(`Aluno da posição 1 da lista é: ${lista[0][1]}. A nota é ${lista[1][1]}`)
