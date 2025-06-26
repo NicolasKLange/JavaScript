@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "nome": "Pinguim",
+    "tipo": "Ave",
+    "habitat": "Antártida e Regiões Frias"
+  },
+  {
+    "id": 3,
+    "nome": "Tubarão",
+    "tipo": "Peixe",
+    "habitat": "Oceanos"
+  },
+  {
+    "id": 4,
+    "nome": "Elefante",
+    "tipo": "Mamífero",
+    "habitat": "Florestas e Savanas"
+  },
+  {
+    "id": 5,
+    "nome": "Elefante",
+    "tipo": "Mamífero",
+    "habitat": "Florestas e Savanas"
+  },
+  {
+    "id": 6,
+    "nome": "Elefante",
+    "tipo": "Mamífero",
+    "habitat": "Florestas e Savanas"
+  },
+  {
+    "id": 7,
+    "nome": "Elefante",
+    "tipo": "Mamífero",
+    "habitat": "Florestas e Savanas"
+  }
+]
